@@ -1,0 +1,1 @@
+# mongo-config-file-for-sharding
